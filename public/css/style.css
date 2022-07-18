@@ -1,7 +1,7 @@
 :root {
-    --main-bg-color: #edf5fe;
-    --light-blue: #03a9f4;
-    --dark-blue: #028bca;
+    --main-bg-color: linear-gradient(rgb(132, 91, 220) , rgb(86, 224, 188));
+    --light-blue: #6deac26b;
+    --dark-blue: #0e22d647;
   }
 
   body {
